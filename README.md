@@ -3,8 +3,6 @@ closest_pair is a program designed to compute the closest pair in d-dimentional 
 
 Usage
 -----
-The MinCir function takes an GPS-coordinate-pair array as input, and will return the position (in the format of GPS coordinates) and radius (in meters) of the smallest circle.
-
 Input: n-dimensional points list or set
 
 Output: [closestDistance, closestPair]

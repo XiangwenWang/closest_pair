@@ -1,5 +1,5 @@
 # closest_pair
-closest_pair is a program designed to compute the closest pair in d-dimentional space. The algorithm efficiency is between O(n) to O(log n).
+closest_pair is a program designed to compute the closest pair in d-dimensional space. The algorithm efficiency is between O(n) to O(log n).
 
 Usage
 -----

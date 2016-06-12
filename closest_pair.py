@@ -1,5 +1,5 @@
 """
-A program designed to compute the closest pair in d-dimentional space.
+A program designed to compute the closest pair in d-dimensional space.
 The algorithm efficiency is between O(n) to O(log n).
 Author: Xiangwen Wang
 """
